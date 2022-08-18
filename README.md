@@ -1,20 +1,33 @@
-Simple App Chat
-===================
+# RandmonChat
+
+Build a chat app with Nodejs, Express and MongoDB. Simple random chat to write with friends demo to practice nodejs
+
+![Captura de pantalla 2022-08-18 121736](https://user-images.githubusercontent.com/60992367/185432163-9e83e9ce-934c-44e4-b349-e1bf0d70460f.png)
+
+## Getting Started
+
+Clone the project repository by running the command below if you use SSH
+
+```bash
+git clone git@github.com:GabrielLimardo/RandmonChat.git
+```
+
+If you use https, use this instead
+
+```bash
+git clone https://github.com/GabrielLimardo/RandmonChat.git
+```
+
+After cloning,run:
 
 
-Hey! Here is my first application using node.js (express) and socket.io. It is a simple **chat app**. 
+```bash
+npm install -s module_name
+npm install -g nodemon
+npm install -s mongoose
+nodemon .\app.js 
+```
 
-You can read the medium blog post to follow the explanations : https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088
+Go to ```http://localhost:3001/``` in your browser 
+And start chatting
 
-# Run App
-
-1) Download Repo
-
-2) Install [Node.JS](https://nodejs.org/en/) 
-
-3) Install Dependencies - NPM Install
-
-
-# Run NPM START 
-
-and browse https://localhost:port
