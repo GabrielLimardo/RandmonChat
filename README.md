@@ -9,13 +9,13 @@ Build a chat app with Nodejs, Express and MongoDB. Simple random chat to write w
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone git@github.com:GabrielLimardo/ChatMessageLaravel.git
+git clone git@github.com:GabrielLimardo/RandmonChat.git
 ```
 
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/GabrielLimardo/ChatMessageLaravel.git
+git clone https://github.com/GabrielLimardo/RandmonChat.git
 ```
 
 After cloning,run:
@@ -30,3 +30,4 @@ nodemon .\app.js
 
 Go to ```http://localhost:3001/``` in your browser 
 And start chatting
+
